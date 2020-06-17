@@ -1,10 +1,9 @@
-# 2020_Mentoria_LluviasExtremas
+# Título: “Predicción de lluvias extremas”
 
 
-Mentor: María Magdalena Baraquet
 
+Mentores: María Magdalena Baraquet y Javier Alvarez
 
-Título: “Predicción de lluvias extremas”
 
 
 Descripción:
@@ -16,6 +15,7 @@ En esta mentoría se propone en primer lugar, recopilar y analizar largos regist
 En segundo lugar, se propone generar un modelo capaz de predecir (con cierta probabilidad) las lluvias extremas en diferentes partes de la provincia para los próximos años. Para ello se utilizará la información histórica la cual será dividida en dos grupos utilizando los últimos 10 años de registro para validación y test del modelo propuesto. 
 
 
+
 En esta mentoría trataremos de responder algunas de las siguientes preguntas:
 
 ¿Qué distribución de probabilidad poseen las lluvias extremas en las diferentes regiones de la Provincia de Córdoba? ¿Y las lluvias acumuladas anuales?
@@ -25,8 +25,8 @@ En esta mentoría trataremos de responder algunas de las siguientes preguntas:
 ¿Existe alguna correlación entre las lluvias extremas e índices climáticos que caracterizan procesos cuasi-periódicos?
 ¿Podemos predecir si en los próximos años las lluvias serán mayores o menores a la media?
 
-
 ¿Cuál es la mejor herramienta matemática para realizar estas proyecciones?
+
 
 
 Hitos previstos de la mentoría
