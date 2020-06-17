@@ -1,0 +1,15 @@
+id,omm_id,nombre,lon_grad,lon_min,lon_seg,lon_hem,lat_grad,lat_min,lat_seg,lat_hem,lon_dec,lat_dec,elev,institucion_id,nivel_adm1,nivel_adm2,fecha_inicio,tipo,pais_id,siglas
+1,87244,Villa Maria del Rio Seco,63,43,39.31,W,29,54,20.9,S,-63.727586,-29.905806,341,1,Cordoba,Rio Seco,1/10/1903,C,AR,SMN
+2,87328,Villa Dolores Aero,65,8,56.54,W,31,57,4.66,S,-65.14904,-31.951295,569,1,Cordoba,San Javier,1/10/1903,C,AR,SMN
+3,87344,Cordoba Aero,64,12,42.67,W,31,17,47.87,S,-64.211853,-31.29663,474,1,Cordoba,Colon,1/1/1946,C,AR,SMN
+4,87345,Cordoba Obs.,64,11,53.79,W,31,25,14.73,S,-64.198276,-31.420759,426,1,Cordoba,Capital,1/1/1961,C,AR,SMN
+5,87349,Pilar Obs.,63,52,55.19,W,31,40,5.11,S,-63.881997,-31.668086,338,1,Cordoba,Rio Segundo,1/1/1907,C,AR,SMN
+6,87466,Marcos Juarez INTA,62,7,0,W,32,41,0,S,-62.12,-32.68,110,2,Cordoba,Marcos Juarez,10/1/1967,C,AR,INTA
+7,87453,Rio Cuarto Aero,64,16,37.1,W,33,5,43.8,S,-64.276973,-33.0955,421,1,Cordoba,Rio Cuarto,1/1/1875,C,AR,SMN
+8,87467,Marcos Juarez Aero,62,9,1.85,W,32,40,46.91,S,-62.150513,-32.679697,114,1,Cordoba,Marcos Juarez,1/1/1947,C,AR,SMN
+9,87534,Laboulaye Aero,63,22,3.48,W,34,7,40.24,S,-63.367634,-34.127844,137,1,Cordoba,Presidente Roque Saenz PeNaN,1/7/1913,C,AR,SMN
+10,9987009,Manfredi INTA,63,46,0,W,31,49,0,S,-63.77,-31.82,292,2,Cordoba,Rio Segundo,9/1/1969,C,AR,INTA
+11,9987013,Capilla del Monte INTA,64,31,20,W,30,51,33,S,-64.52,-30.86,984,2,Cordoba,Punilla,1/1/2012,C,AR,INTA
+12,9987015,Canals INTA,62,52,48,W,33,34,12,S,-62.88,-33.57,125,2,Cordoba,Union,1/1/2006,C,AR,INTA
+13,1,La Florida,64,46,59,W,32,13,59,S,-64.783,-32.233,1090,3,Cordoba,Calamuchita,1/1/1958,C,AR,BDHI
+14,2,Pueblo Andino,60,52,26,W,32,40,8,S,-60.87388889,-32.66888889,9,3,Santa Fe,Iriondo,4/1/1980,Q,AR,BDHI
