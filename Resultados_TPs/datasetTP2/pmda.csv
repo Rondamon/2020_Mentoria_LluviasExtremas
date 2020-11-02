@@ -1,0 +1,700 @@
+,hydro_year,station,prcp
+0,1957,La Florida,159.0
+1,1958,La Florida,85.0
+2,1959,La Florida,72.0
+3,1960,Cordoba Aero,87.0
+4,1960,Cordoba Obs.,75.6
+5,1960,La Florida,97.0
+6,1960,Laboulaye Aero,57.0
+7,1960,Marcos Juarez Aero,59.5
+8,1960,Pilar Obs.,48.4
+9,1960,Rio Cuarto Aero,53.9
+10,1960,Villa Dolores Aero,46.2
+11,1960,Villa Maria del Rio Seco,78.0
+12,1961,Cordoba Aero,72.6
+13,1961,Cordoba Obs.,65.0
+14,1961,La Florida,86.5
+15,1961,Laboulaye Aero,54.0
+16,1961,Marcos Juarez Aero,89.4
+17,1961,Pilar Obs.,76.5
+18,1961,Rio Cuarto Aero,64.3
+19,1961,Villa Dolores Aero,67.0
+20,1961,Villa Maria del Rio Seco,59.5
+21,1962,Cordoba Aero,97.2
+22,1962,Cordoba Obs.,90.8
+23,1962,La Florida,59.0
+24,1962,Laboulaye Aero,50.0
+25,1962,Marcos Juarez Aero,78.0
+26,1962,Pilar Obs.,52.3
+27,1962,Rio Cuarto Aero,57.8
+28,1962,Villa Dolores Aero,48.0
+29,1962,Villa Maria del Rio Seco,109.0
+30,1963,Cordoba Aero,87.5
+31,1963,Cordoba Obs.,66.6
+32,1963,La Florida,53.0
+33,1963,Laboulaye Aero,114.0
+34,1963,Marcos Juarez Aero,73.2
+35,1963,Pilar Obs.,52.3
+36,1963,Rio Cuarto Aero,58.0
+37,1963,Villa Dolores Aero,68.5
+38,1963,Villa Maria del Rio Seco,78.5
+39,1964,Cordoba Aero,63.1
+40,1964,Cordoba Obs.,82.0
+41,1964,La Florida,78.0
+42,1964,Laboulaye Aero,64.5
+43,1964,Marcos Juarez Aero,93.5
+44,1964,Pilar Obs.,110.0
+45,1964,Rio Cuarto Aero,47.6
+46,1964,Villa Dolores Aero,36.5
+47,1964,Villa Maria del Rio Seco,39.0
+48,1965,Cordoba Aero,43.3
+49,1965,Cordoba Obs.,63.5
+50,1965,La Florida,178.0
+51,1965,Laboulaye Aero,107.0
+52,1965,Marcos Juarez Aero,55.8
+53,1965,Pilar Obs.,63.2
+54,1965,Rio Cuarto Aero,74.8
+55,1965,Villa Dolores Aero,48.0
+56,1965,Villa Maria del Rio Seco,129.9
+57,1966,Cordoba Aero,77.0
+58,1966,Cordoba Obs.,89.5
+59,1966,La Florida,57.5
+60,1966,Laboulaye Aero,48.3
+61,1966,Marcos Juarez Aero,67.0
+62,1966,Pilar Obs.,52.0
+63,1966,Rio Cuarto Aero,65.8
+64,1966,Villa Dolores Aero,39.7
+65,1966,Villa Maria del Rio Seco,48.0
+66,1967,Cordoba Aero,60.6
+67,1967,Cordoba Obs.,50.1
+68,1967,La Florida,90.5
+69,1967,Laboulaye Aero,87.3
+70,1967,Marcos Juarez Aero,76.0
+71,1967,Marcos Juarez INTA,64.7
+72,1967,Pilar Obs.,39.5
+73,1967,Rio Cuarto Aero,57.0
+74,1967,Villa Dolores Aero,40.2
+75,1967,Villa Maria del Rio Seco,70.0
+76,1968,Cordoba Aero,87.0
+77,1968,Cordoba Obs.,95.8
+78,1968,La Florida,38.6
+79,1968,Laboulaye Aero,65.2
+80,1968,Marcos Juarez Aero,48.0
+81,1968,Marcos Juarez INTA,41.2
+82,1968,Pilar Obs.,74.7
+83,1968,Rio Cuarto Aero,75.0
+84,1968,Villa Dolores Aero,35.0
+85,1968,Villa Maria del Rio Seco,78.2
+86,1969,Cordoba Aero,72.7
+87,1969,Cordoba Obs.,54.4
+88,1969,La Florida,99.6
+89,1969,Laboulaye Aero,70.3
+90,1969,Manfredi INTA,90.6
+91,1969,Marcos Juarez Aero,71.2
+92,1969,Marcos Juarez INTA,76.0
+93,1969,Pilar Obs.,56.4
+94,1969,Rio Cuarto Aero,87.9
+95,1969,Villa Dolores Aero,50.0
+96,1969,Villa Maria del Rio Seco,74.0
+97,1970,Cordoba Aero,59.8
+98,1970,Cordoba Obs.,56.1
+99,1970,La Florida,93.2
+100,1970,Laboulaye Aero,51.4
+101,1970,Manfredi INTA,45.0
+102,1970,Marcos Juarez Aero,82.2
+103,1970,Marcos Juarez INTA,85.0
+104,1970,Pilar Obs.,56.4
+105,1970,Rio Cuarto Aero,64.0
+106,1970,Villa Dolores Aero,65.0
+107,1970,Villa Maria del Rio Seco,73.0
+108,1971,Cordoba Aero,83.1
+109,1971,Cordoba Obs.,67.0
+110,1971,La Florida,58.5
+111,1971,Laboulaye Aero,47.8
+112,1971,Manfredi INTA,37.3
+113,1971,Marcos Juarez Aero,55.7
+114,1971,Marcos Juarez INTA,50.5
+115,1971,Pilar Obs.,36.4
+116,1971,Rio Cuarto Aero,58.2
+117,1971,Villa Dolores Aero,28.4
+118,1971,Villa Maria del Rio Seco,74.7
+119,1972,Cordoba Aero,83.0
+120,1972,Cordoba Obs.,129.8
+121,1972,La Florida,85.9
+122,1972,Laboulaye Aero,81.2
+123,1972,Manfredi INTA,69.0
+124,1972,Marcos Juarez Aero,102.7
+125,1972,Marcos Juarez INTA,100.0
+126,1972,Pilar Obs.,77.0
+127,1972,Rio Cuarto Aero,88.0
+128,1972,Villa Dolores Aero,65.5
+129,1972,Villa Maria del Rio Seco,80.0
+130,1973,Cordoba Aero,47.0
+131,1973,Cordoba Obs.,38.7
+132,1973,La Florida,79.8
+133,1973,Laboulaye Aero,51.4
+134,1973,Manfredi INTA,65.0
+135,1973,Marcos Juarez Aero,130.0
+136,1973,Marcos Juarez INTA,126.0
+137,1973,Pilar Obs.,83.6
+138,1973,Rio Cuarto Aero,65.1
+139,1973,Villa Dolores Aero,35.3
+140,1973,Villa Maria del Rio Seco,79.0
+141,1974,Cordoba Aero,90.2
+142,1974,Cordoba Obs.,111.7
+143,1974,La Florida,87.5
+144,1974,Laboulaye Aero,99.3
+145,1974,Manfredi INTA,150.0
+146,1974,Marcos Juarez Aero,105.5
+147,1974,Marcos Juarez INTA,117.0
+148,1974,Pilar Obs.,124.5
+149,1974,Rio Cuarto Aero,89.6
+150,1974,Villa Dolores Aero,36.0
+151,1974,Villa Maria del Rio Seco,67.0
+152,1975,Cordoba Aero,31.0
+153,1975,Cordoba Obs.,31.9
+154,1975,La Florida,63.9
+155,1975,Laboulaye Aero,121.8
+156,1975,Manfredi INTA,47.5
+157,1975,Marcos Juarez Aero,156.9
+158,1975,Marcos Juarez INTA,135.0
+159,1975,Pilar Obs.,47.1
+160,1975,Rio Cuarto Aero,45.0
+161,1975,Villa Dolores Aero,23.8
+162,1975,Villa Maria del Rio Seco,58.0
+163,1976,Cordoba Aero,66.7
+164,1976,Cordoba Obs.,61.5
+165,1976,La Florida,54.5
+166,1976,Laboulaye Aero,65.0
+167,1976,Manfredi INTA,79.0
+168,1976,Marcos Juarez Aero,161.8
+169,1976,Marcos Juarez INTA,172.8
+170,1976,Pilar Obs.,110.2
+171,1976,Rio Cuarto Aero,55.2
+172,1976,Villa Dolores Aero,46.3
+173,1976,Villa Maria del Rio Seco,58.8
+174,1977,Cordoba Aero,62.5
+175,1977,Cordoba Obs.,105.0
+176,1977,La Florida,144.0
+177,1977,Laboulaye Aero,99.0
+178,1977,Manfredi INTA,107.5
+179,1977,Marcos Juarez Aero,140.0
+180,1977,Marcos Juarez INTA,120.0
+181,1977,Pilar Obs.,89.0
+182,1977,Rio Cuarto Aero,126.6
+183,1977,Villa Dolores Aero,56.2
+184,1977,Villa Maria del Rio Seco,98.4
+185,1978,Cordoba Aero,78.8
+186,1978,Cordoba Obs.,71.8
+187,1978,La Florida,102.5
+188,1978,Laboulaye Aero,76.6
+189,1978,Manfredi INTA,76.0
+190,1978,Marcos Juarez Aero,67.8
+191,1978,Marcos Juarez INTA,84.5
+192,1978,Pilar Obs.,87.0
+193,1978,Rio Cuarto Aero,107.5
+194,1978,Villa Dolores Aero,42.5
+195,1978,Villa Maria del Rio Seco,69.8
+196,1979,Cordoba Aero,104.0
+197,1979,Cordoba Obs.,105.0
+198,1979,La Florida,135.0
+199,1979,Laboulaye Aero,113.5
+200,1979,Manfredi INTA,58.0
+201,1979,Marcos Juarez Aero,70.7
+202,1979,Marcos Juarez INTA,72.0
+203,1979,Pilar Obs.,45.5
+204,1979,Pueblo Andino,
+205,1979,Rio Cuarto Aero,97.7
+206,1979,Villa Dolores Aero,91.5
+207,1979,Villa Maria del Rio Seco,63.3
+208,1980,Cordoba Aero,86.8
+209,1980,Cordoba Obs.,133.4
+210,1980,La Florida,90.0
+211,1980,Laboulaye Aero,75.3
+212,1980,Manfredi INTA,84.0
+213,1980,Marcos Juarez Aero,71.5
+214,1980,Marcos Juarez INTA,91.5
+215,1980,Pilar Obs.,92.7
+216,1980,Pueblo Andino,
+217,1980,Rio Cuarto Aero,85.0
+218,1980,Villa Dolores Aero,104.0
+219,1980,Villa Maria del Rio Seco,109.0
+220,1981,Cordoba Aero,61.5
+221,1981,Cordoba Obs.,49.3
+222,1981,La Florida,33.7
+223,1981,Laboulaye Aero,63.4
+224,1981,Manfredi INTA,45.0
+225,1981,Marcos Juarez Aero,65.1
+226,1981,Marcos Juarez INTA,65.0
+227,1981,Pilar Obs.,49.1
+228,1981,Pueblo Andino,
+229,1981,Rio Cuarto Aero,51.2
+230,1981,Villa Dolores Aero,62.0
+231,1981,Villa Maria del Rio Seco,69.0
+232,1982,Cordoba Aero,45.0
+233,1982,Cordoba Obs.,43.5
+234,1982,La Florida,64.5
+235,1982,Laboulaye Aero,46.2
+236,1982,Manfredi INTA,90.0
+237,1982,Marcos Juarez Aero,82.0
+238,1982,Marcos Juarez INTA,88.5
+239,1982,Pilar Obs.,77.8
+240,1982,Pueblo Andino,
+241,1982,Rio Cuarto Aero,60.7
+242,1982,Villa Dolores Aero,44.0
+243,1982,Villa Maria del Rio Seco,65.7
+244,1983,Cordoba Aero,61.0
+245,1983,Cordoba Obs.,71.0
+246,1983,La Florida,168.5
+247,1983,Laboulaye Aero,107.3
+248,1983,Manfredi INTA,240.0
+249,1983,Marcos Juarez Aero,148.9
+250,1983,Marcos Juarez INTA,147.2
+251,1983,Pilar Obs.,80.0
+252,1983,Pueblo Andino,
+253,1983,Rio Cuarto Aero,122.5
+254,1983,Villa Dolores Aero,87.0
+255,1983,Villa Maria del Rio Seco,81.5
+256,1984,Cordoba Aero,98.0
+257,1984,Cordoba Obs.,110.5
+258,1984,La Florida,
+259,1984,Laboulaye Aero,51.7
+260,1984,Manfredi INTA,57.0
+261,1984,Marcos Juarez Aero,59.5
+262,1984,Marcos Juarez INTA,86.0
+263,1984,Pilar Obs.,62.9
+264,1984,Pueblo Andino,
+265,1984,Rio Cuarto Aero,50.0
+266,1984,Villa Dolores Aero,56.5
+267,1984,Villa Maria del Rio Seco,76.6
+268,1985,Cordoba Aero,83.5
+269,1985,Cordoba Obs.,96.5
+270,1985,La Florida,
+271,1985,Laboulaye Aero,59.8
+272,1985,Manfredi INTA,183.0
+273,1985,Marcos Juarez Aero,63.8
+274,1985,Marcos Juarez INTA,65.0
+275,1985,Pilar Obs.,62.0
+276,1985,Pueblo Andino,
+277,1985,Rio Cuarto Aero,46.3
+278,1985,Villa Dolores Aero,83.1
+279,1985,Villa Maria del Rio Seco,90.0
+280,1986,Cordoba Aero,56.0
+281,1986,Cordoba Obs.,98.2
+282,1986,La Florida,63.9
+283,1986,Laboulaye Aero,66.3
+284,1986,Manfredi INTA,110.0
+285,1986,Marcos Juarez Aero,88.0
+286,1986,Marcos Juarez INTA,99.0
+287,1986,Pilar Obs.,93.3
+288,1986,Pueblo Andino,
+289,1986,Rio Cuarto Aero,79.3
+290,1986,Villa Dolores Aero,53.0
+291,1986,Villa Maria del Rio Seco,84.0
+292,1987,Cordoba Aero,62.2
+293,1987,Cordoba Obs.,61.0
+294,1987,La Florida,82.4
+295,1987,Laboulaye Aero,118.9
+296,1987,Manfredi INTA,56.5
+297,1987,Marcos Juarez Aero,62.5
+298,1987,Marcos Juarez INTA,55.9
+299,1987,Pilar Obs.,46.5
+300,1987,Pueblo Andino,
+301,1987,Rio Cuarto Aero,126.0
+302,1987,Villa Dolores Aero,45.0
+303,1987,Villa Maria del Rio Seco,97.0
+304,1988,Cordoba Aero,40.0
+305,1988,Cordoba Obs.,46.0
+306,1988,La Florida,19.1
+307,1988,Laboulaye Aero,69.6
+308,1988,Manfredi INTA,98.0
+309,1988,Marcos Juarez Aero,49.2
+310,1988,Marcos Juarez INTA,53.0
+311,1988,Pilar Obs.,107.0
+312,1988,Pueblo Andino,
+313,1988,Rio Cuarto Aero,103.0
+314,1988,Villa Dolores Aero,46.0
+315,1988,Villa Maria del Rio Seco,54.0
+316,1989,Cordoba Aero,56.4
+317,1989,Cordoba Obs.,70.0
+318,1989,La Florida,
+319,1989,Laboulaye Aero,53.5
+320,1989,Manfredi INTA,125.0
+321,1989,Marcos Juarez Aero,117.4
+322,1989,Marcos Juarez INTA,95.0
+323,1989,Pilar Obs.,112.0
+324,1989,Pueblo Andino,
+325,1989,Rio Cuarto Aero,71.5
+326,1989,Villa Dolores Aero,52.0
+327,1989,Villa Maria del Rio Seco,116.0
+328,1990,Cordoba Aero,67.7
+329,1990,Cordoba Obs.,48.5
+330,1990,La Florida,
+331,1990,Laboulaye Aero,94.4
+332,1990,Manfredi INTA,102.0
+333,1990,Marcos Juarez Aero,93.0
+334,1990,Marcos Juarez INTA,92.5
+335,1990,Pilar Obs.,150.9
+336,1990,Pueblo Andino,
+337,1990,Rio Cuarto Aero,76.8
+338,1990,Villa Dolores Aero,39.0
+339,1990,Villa Maria del Rio Seco,43.3
+340,1991,Cordoba Aero,95.0
+341,1991,Cordoba Obs.,73.5
+342,1991,La Florida,
+343,1991,Laboulaye Aero,46.9
+344,1991,Manfredi INTA,140.0
+345,1991,Marcos Juarez Aero,88.0
+346,1991,Marcos Juarez INTA,81.5
+347,1991,Pilar Obs.,118.0
+348,1991,Rio Cuarto Aero,83.4
+349,1991,Villa Dolores Aero,53.0
+350,1991,Villa Maria del Rio Seco,165.0
+351,1992,Cordoba Aero,71.8
+352,1992,Cordoba Obs.,71.7
+353,1992,La Florida,
+354,1992,Laboulaye Aero,64.5
+355,1992,Manfredi INTA,83.0
+356,1992,Marcos Juarez Aero,72.0
+357,1992,Marcos Juarez INTA,78.5
+358,1992,Pilar Obs.,89.7
+359,1992,Pueblo Andino,
+360,1992,Rio Cuarto Aero,70.0
+361,1992,Villa Dolores Aero,51.0
+362,1992,Villa Maria del Rio Seco,79.2
+363,1993,Cordoba Aero,118.0
+364,1993,Cordoba Obs.,121.8
+365,1993,La Florida,139.0
+366,1993,Laboulaye Aero,55.0
+367,1993,Manfredi INTA,141.0
+368,1993,Marcos Juarez Aero,132.9
+369,1993,Marcos Juarez INTA,101.5
+370,1993,Pilar Obs.,91.6
+371,1993,Pueblo Andino,
+372,1993,Rio Cuarto Aero,109.5
+373,1993,Villa Dolores Aero,69.0
+374,1993,Villa Maria del Rio Seco,69.7
+375,1994,Cordoba Aero,110.0
+376,1994,Cordoba Obs.,49.1
+377,1994,La Florida,70.9
+378,1994,Laboulaye Aero,69.0
+379,1994,Manfredi INTA,65.5
+380,1994,Marcos Juarez Aero,42.0
+381,1994,Marcos Juarez INTA,57.5
+382,1994,Pilar Obs.,63.5
+383,1994,Pueblo Andino,
+384,1994,Rio Cuarto Aero,140.5
+385,1994,Villa Dolores Aero,40.0
+386,1994,Villa Maria del Rio Seco,42.0
+387,1995,Cordoba Aero,94.0
+388,1995,Cordoba Obs.,83.5
+389,1995,La Florida,77.0
+390,1995,Laboulaye Aero,89.0
+391,1995,Manfredi INTA,65.0
+392,1995,Marcos Juarez Aero,72.0
+393,1995,Marcos Juarez INTA,64.0
+394,1995,Pilar Obs.,79.0
+395,1995,Pueblo Andino,
+396,1995,Rio Cuarto Aero,89.5
+397,1995,Villa Dolores Aero,37.0
+398,1995,Villa Maria del Rio Seco,60.0
+399,1996,Cordoba Aero,48.0
+400,1996,Cordoba Obs.,75.7
+401,1996,La Florida,70.5
+402,1996,Laboulaye Aero,108.0
+403,1996,Manfredi INTA,58.0
+404,1996,Marcos Juarez Aero,44.0
+405,1996,Marcos Juarez INTA,44.0
+406,1996,Pilar Obs.,48.0
+407,1996,Pueblo Andino,
+408,1996,Rio Cuarto Aero,58.0
+409,1996,Villa Dolores Aero,79.0
+410,1996,Villa Maria del Rio Seco,48.0
+411,1997,Cordoba Aero,78.0
+412,1997,Cordoba Obs.,138.6
+413,1997,La Florida,145.1
+414,1997,Laboulaye Aero,89.9
+415,1997,Manfredi INTA,46.0
+416,1997,Marcos Juarez Aero,116.0
+417,1997,Marcos Juarez INTA,70.0
+418,1997,Pilar Obs.,98.4
+419,1997,Pueblo Andino,
+420,1997,Rio Cuarto Aero,65.5
+421,1997,Villa Dolores Aero,102.0
+422,1997,Villa Maria del Rio Seco,45.0
+423,1998,Cordoba Aero,72.0
+424,1998,Cordoba Obs.,67.0
+425,1998,La Florida,63.0
+426,1998,Laboulaye Aero,203.8
+427,1998,Manfredi INTA,114.0
+428,1998,Marcos Juarez Aero,54.0
+429,1998,Marcos Juarez INTA,45.0
+430,1998,Pilar Obs.,80.8
+431,1998,Pueblo Andino,
+432,1998,Rio Cuarto Aero,88.0
+433,1998,Villa Dolores Aero,51.0
+434,1998,Villa Maria del Rio Seco,53.5
+435,1999,Cordoba Aero,138.0
+436,1999,Cordoba Obs.,120.0
+437,1999,La Florida,178.3
+438,1999,Laboulaye Aero,56.2
+439,1999,Manfredi INTA,112.0
+440,1999,Marcos Juarez Aero,111.5
+441,1999,Marcos Juarez INTA,81.5
+442,1999,Pilar Obs.,111.5
+443,1999,Pueblo Andino,
+444,1999,Rio Cuarto Aero,84.0
+445,1999,Villa Dolores Aero,80.0
+446,1999,Villa Maria del Rio Seco,75.0
+447,2000,Cordoba Aero,108.0
+448,2000,Cordoba Obs.,78.0
+449,2000,La Florida,60.2
+450,2000,Laboulaye Aero,94.0
+451,2000,Manfredi INTA,55.0
+452,2000,Marcos Juarez Aero,85.0
+453,2000,Marcos Juarez INTA,94.0
+454,2000,Pilar Obs.,63.0
+455,2000,Pueblo Andino,
+456,2000,Rio Cuarto Aero,143.0
+457,2000,Villa Dolores Aero,56.0
+458,2000,Villa Maria del Rio Seco,101.0
+459,2001,Cordoba Aero,48.0
+460,2001,Cordoba Obs.,38.0
+461,2001,La Florida,65.0
+462,2001,Laboulaye Aero,68.0
+463,2001,Manfredi INTA,64.0
+464,2001,Marcos Juarez Aero,141.0
+465,2001,Marcos Juarez INTA,140.0
+466,2001,Pilar Obs.,78.0
+467,2001,Pueblo Andino,
+468,2001,Rio Cuarto Aero,68.0
+469,2001,Villa Dolores Aero,56.0
+470,2001,Villa Maria del Rio Seco,57.0
+471,2002,Cordoba Aero,91.0
+472,2002,Cordoba Obs.,66.0
+473,2002,La Florida,85.0
+474,2002,Laboulaye Aero,59.0
+475,2002,Manfredi INTA,73.0
+476,2002,Marcos Juarez Aero,80.0
+477,2002,Marcos Juarez INTA,58.0
+478,2002,Pilar Obs.,65.0
+479,2002,Pueblo Andino,
+480,2002,Rio Cuarto Aero,57.0
+481,2002,Villa Dolores Aero,53.0
+482,2002,Villa Maria del Rio Seco,95.0
+483,2003,Cordoba Aero,60.0
+484,2003,Cordoba Obs.,198.0
+485,2003,La Florida,62.5
+486,2003,Laboulaye Aero,82.0
+487,2003,Manfredi INTA,38.0
+488,2003,Marcos Juarez Aero,82.0
+489,2003,Marcos Juarez INTA,89.0
+490,2003,Pilar Obs.,87.0
+491,2003,Pueblo Andino,
+492,2003,Rio Cuarto Aero,74.0
+493,2003,Villa Dolores Aero,75.0
+494,2003,Villa Maria del Rio Seco,50.0
+495,2004,Cordoba Aero,66.0
+496,2004,Cordoba Obs.,64.0
+497,2004,La Florida,75.5
+498,2004,Laboulaye Aero,59.0
+499,2004,Manfredi INTA,62.0
+500,2004,Marcos Juarez Aero,72.0
+501,2004,Marcos Juarez INTA,82.0
+502,2004,Pilar Obs.,100.0
+503,2004,Pueblo Andino,
+504,2004,Rio Cuarto Aero,53.0
+505,2004,Villa Dolores Aero,58.0
+506,2004,Villa Maria del Rio Seco,110.0
+507,2005,Canals INTA,70.0
+508,2005,Cordoba Aero,107.5
+509,2005,Cordoba Obs.,98.6
+510,2005,La Florida,74.5
+511,2005,Laboulaye Aero,61.0
+512,2005,Manfredi INTA,83.0
+513,2005,Marcos Juarez Aero,58.0
+514,2005,Marcos Juarez INTA,59.0
+515,2005,Pilar Obs.,71.0
+516,2005,Pueblo Andino,
+517,2005,Rio Cuarto Aero,67.0
+518,2005,Villa Dolores Aero,68.0
+519,2005,Villa Maria del Rio Seco,64.0
+520,2006,Canals INTA,70.0
+521,2006,Cordoba Aero,70.0
+522,2006,Cordoba Obs.,45.0
+523,2006,La Florida,97.0
+524,2006,Laboulaye Aero,98.0
+525,2006,Manfredi INTA,117.0
+526,2006,Marcos Juarez Aero,97.0
+527,2006,Marcos Juarez INTA,100.0
+528,2006,Pilar Obs.,101.0
+529,2006,Pueblo Andino,
+530,2006,Rio Cuarto Aero,90.0
+531,2006,Villa Dolores Aero,47.0
+532,2006,Villa Maria del Rio Seco,117.0
+533,2007,Canals INTA,83.0
+534,2007,Cordoba Aero,60.0
+535,2007,Cordoba Obs.,42.6
+536,2007,La Florida,55.5
+537,2007,Laboulaye Aero,67.0
+538,2007,Manfredi INTA,43.0
+539,2007,Marcos Juarez Aero,45.0
+540,2007,Marcos Juarez INTA,38.5
+541,2007,Pilar Obs.,45.0
+542,2007,Pueblo Andino,
+543,2007,Rio Cuarto Aero,104.0
+544,2007,Villa Dolores Aero,67.0
+545,2007,Villa Maria del Rio Seco,108.0
+546,2008,Canals INTA,40.0
+547,2008,Cordoba Aero,77.0
+548,2008,Cordoba Obs.,36.0
+549,2008,La Florida,63.0
+550,2008,Laboulaye Aero,86.0
+551,2008,Manfredi INTA,90.0
+552,2008,Marcos Juarez Aero,47.0
+553,2008,Marcos Juarez INTA,55.0
+554,2008,Pilar Obs.,50.0
+555,2008,Pueblo Andino,
+556,2008,Rio Cuarto Aero,60.0
+557,2008,Villa Dolores Aero,48.0
+558,2008,Villa Maria del Rio Seco,60.3
+559,2009,Canals INTA,70.1
+560,2009,Cordoba Aero,149.0
+561,2009,Cordoba Obs.,57.5
+562,2009,La Florida,85.5
+563,2009,Laboulaye Aero,80.0
+564,2009,Manfredi INTA,123.0
+565,2009,Marcos Juarez Aero,87.0
+566,2009,Marcos Juarez INTA,106.0
+567,2009,Pilar Obs.,53.0
+568,2009,Pueblo Andino,
+569,2009,Rio Cuarto Aero,44.0
+570,2009,Villa Dolores Aero,92.0
+571,2009,Villa Maria del Rio Seco,44.0
+572,2010,Canals INTA,80.0
+573,2010,Cordoba Aero,72.0
+574,2010,Cordoba Obs.,58.5
+575,2010,La Florida,72.5
+576,2010,Laboulaye Aero,99.0
+577,2010,Manfredi INTA,91.0
+578,2010,Marcos Juarez Aero,71.0
+579,2010,Marcos Juarez INTA,80.0
+580,2010,Pilar Obs.,64.0
+581,2010,Pueblo Andino,
+582,2010,Rio Cuarto Aero,83.0
+583,2010,Villa Dolores Aero,60.0
+584,2010,Villa Maria del Rio Seco,69.5
+585,2011,Canals INTA,80.0
+586,2011,Capilla del Monte INTA,125.0
+587,2011,Cordoba Aero,72.6
+588,2011,Cordoba Obs.,87.3
+589,2011,La Florida,95.0
+590,2011,Laboulaye Aero,109.0
+591,2011,Manfredi INTA,122.0
+592,2011,Marcos Juarez Aero,88.0
+593,2011,Marcos Juarez INTA,83.0
+594,2011,Pilar Obs.,51.0
+595,2011,Pueblo Andino,
+596,2011,Rio Cuarto Aero,53.0
+597,2011,Villa Dolores Aero,52.0
+598,2011,Villa Maria del Rio Seco,74.0
+599,2012,Canals INTA,110.0
+600,2012,Capilla del Monte INTA,49.0
+601,2012,Cordoba Aero,72.0
+602,2012,Cordoba Obs.,54.0
+603,2012,La Florida,91.0
+604,2012,Laboulaye Aero,64.0
+605,2012,Manfredi INTA,95.0
+606,2012,Marcos Juarez Aero,121.5
+607,2012,Marcos Juarez INTA,116.0
+608,2012,Pilar Obs.,88.0
+609,2012,Pueblo Andino,
+610,2012,Rio Cuarto Aero,77.0
+611,2012,Villa Dolores Aero,36.0
+612,2012,Villa Maria del Rio Seco,57.0
+613,2013,Canals INTA,83.0
+614,2013,Capilla del Monte INTA,102.0
+615,2013,Cordoba Aero,129.0
+616,2013,Cordoba Obs.,69.0
+617,2013,La Florida,142.0
+618,2013,Laboulaye Aero,80.0
+619,2013,Manfredi INTA,95.0
+620,2013,Marcos Juarez Aero,134.0
+621,2013,Marcos Juarez INTA,116.0
+622,2013,Pilar Obs.,85.0
+623,2013,Pueblo Andino,
+624,2013,Rio Cuarto Aero,82.0
+625,2013,Villa Dolores Aero,43.0
+626,2013,Villa Maria del Rio Seco,54.0
+627,2014,Capilla del Monte INTA,62.0
+628,2014,Cordoba Aero,116.0
+629,2014,Cordoba Obs.,101.5
+630,2014,La Florida,52.5
+631,2014,Laboulaye Aero,74.0
+632,2014,Manfredi INTA,88.0
+633,2014,Marcos Juarez Aero,79.0
+634,2014,Marcos Juarez INTA,70.0
+635,2014,Pilar Obs.,73.0
+636,2014,Pueblo Andino,
+637,2014,Rio Cuarto Aero,77.0
+638,2014,Villa Dolores Aero,55.0
+639,2014,Villa Maria del Rio Seco,82.0
+640,2015,Capilla del Monte INTA,68.0
+641,2015,Cordoba Aero,49.0
+642,2015,Cordoba Obs.,153.0
+643,2015,La Florida,109.0
+644,2015,Laboulaye Aero,76.0
+645,2015,Manfredi INTA,134.5
+646,2015,Marcos Juarez Aero,96.0
+647,2015,Marcos Juarez INTA,77.0
+648,2015,Pilar Obs.,72.0
+649,2015,Pueblo Andino,
+650,2015,Rio Cuarto Aero,50.0
+651,2015,Villa Dolores Aero,69.0
+652,2015,Villa Maria del Rio Seco,43.0
+653,2016,Capilla del Monte INTA,78.0
+654,2016,Cordoba Aero,66.0
+655,2016,Cordoba Obs.,47.6
+656,2016,La Florida,70.0
+657,2016,Laboulaye Aero,137.0
+658,2016,Manfredi INTA,82.0
+659,2016,Marcos Juarez Aero,110.0
+660,2016,Marcos Juarez INTA,135.0
+661,2016,Pilar Obs.,58.0
+662,2016,Pueblo Andino,
+663,2016,Rio Cuarto Aero,32.0
+664,2016,Villa Dolores Aero,51.0
+665,2016,Villa Maria del Rio Seco,73.0
+666,2017,Capilla del Monte INTA,79.0
+667,2017,Cordoba Aero,69.0
+668,2017,Cordoba Obs.,62.0
+669,2017,La Florida,52.0
+670,2017,Laboulaye Aero,73.0
+671,2017,Manfredi INTA,53.0
+672,2017,Marcos Juarez Aero,68.0
+673,2017,Marcos Juarez INTA,72.0
+674,2017,Pilar Obs.,65.0
+675,2017,Pueblo Andino,
+676,2017,Rio Cuarto Aero,38.0
+677,2017,Villa Dolores Aero,33.0
+678,2017,Villa Maria del Rio Seco,63.0
+679,2018,Capilla del Monte INTA,50.0
+680,2018,Cordoba Aero,95.0
+681,2018,Cordoba Obs.,81.0
+682,2018,La Florida,94.0
+683,2018,Laboulaye Aero,66.0
+684,2018,Marcos Juarez Aero,99.0
+685,2018,Marcos Juarez INTA,100.0
+686,2018,Pilar Obs.,60.0
+687,2018,Rio Cuarto Aero,163.0
+688,2018,Villa Dolores Aero,45.0
+689,2018,Villa Maria del Rio Seco,41.0
+690,2019,Capilla del Monte INTA,58.0
+691,2019,Cordoba Aero,130.0
+692,2019,Cordoba Obs.,94.0
+693,2019,Laboulaye Aero,106.0
+694,2019,Marcos Juarez Aero,75.0
+695,2019,Pilar Obs.,58.0
+696,2019,Rio Cuarto Aero,63.0
+697,2019,Villa Dolores Aero,50.0
+698,2019,Villa Maria del Rio Seco,34.0
